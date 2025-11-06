@@ -47,9 +47,3 @@ Built to improve online review reliability by identifying automatically generate
 | ![Input Example](screenshots/input.png) | ![Output Example](screenshots/output.png) |
 
 ---
-
-### 🧩 How to Run Locally
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/sudhee302/Fake-Review-Detection-using-Stacking-Ensemble
-   cd Fake-Review-Detection-using-Stacking-Ensemble
