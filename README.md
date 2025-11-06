@@ -37,5 +37,13 @@ Built to improve online review reliability by identifying automatically generate
 ### 📊 Results
 - ✅ Achieved **92.16% accuracy** on test data using the stacked ensemble  
 - 🔍 Ensemble model outperformed individual base learners in precision and recall  
-- 🧮 Reduced misclassification through text normalization and feature weighting  
+- 🧮 Reduced misclassification through text normalization and feature weighting
+  
+---
+
+### 🧩 How to Run Locally
+1. **Clone this repository**
+   ```bash
+   git clone https://github.com/sudhee302/Fake-Review-Detection-using-Stacking-Ensemble
+   cd Fake-Review-Detection-using-Stacking-Ensemble
 
