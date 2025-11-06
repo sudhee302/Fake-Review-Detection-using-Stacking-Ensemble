@@ -39,11 +39,3 @@ Built to improve online review reliability by identifying automatically generate
 - 🔍 Ensemble model outperformed individual base learners in precision and recall  
 - 🧮 Reduced misclassification through text normalization and feature weighting  
 
----
-
-### 🖼️ Demo
-| Input Page | Prediction Output |
-|-------------|------------------|
-| ![Input Example](screenshots/input.png) | ![Output Example](screenshots/output.png) |
-
----
